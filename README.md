@@ -13,7 +13,8 @@ According to the World Intellectual Property Organization (WIPO), the number of 
 
 ### Justification on why I chose the artefact
 
-I chose this artefact because it helped me understand that intellectual property is not only about copyright. Patents are also important in ICT because they can protect new technological inventions. The rapid growth in GenAI patents shows how quickly technology companies and researchers are trying to protect new ideas. This connects with our workshop because we discussed how ICT professionals create and use digital technologies that can have value for organisations and society. Before looking at this report, I mostly connected AI with software and data rather than patents. I now understand that innovation can create intellectual property that needs to be identified and protected. This is important for me as an ICT student because future technical work may involve creating technologies that have commercial and legal value.
+I selected this artefact since I was able to learn that intellectual property involves other aspects such as patents which are vital in ICT. For instance, there has been massive patenting of GenAI indicating the rapid development of technology by technology firms.
+In addition, during our workshop on the topic, we were presented with various ways through which ICT professionals create and utilise digital technologies that possess values to different organisation and society (Krause et al., 2019). Initially, before going through this report, I associated AI to mainly consist of softwares and data but after reading the report, I am conversant with concepts involving innovations leading to creation of Intellectual Property which need to be acknowledged and safeguarded. It is essential for me as an ICT student as my future career might entail developing technologies that have commercial and legal significance.
 
 ## Artefact 2: Reuters – Meta Copyright Case and AI Training
 ![Artefact 2](5253776482813812311_121.jpg)
@@ -21,12 +22,14 @@ I chose this artefact because it helped me understand that intellectual property
 https://www.reuters.com/sustainability/boards-policy-regulation/meta-fends-off-authors-us-copyright-lawsuit-over-ai-2025-06-25/
 
 ### Summary of the artefact
-
-This 2025 Reuters article reports on a US copyright case involving Meta and a group of authors. A judge ruled in Meta's favour because the authors did not provide enough evidence to establish the required market harm. However, the judge also made clear that the decision did not mean that using copyrighted works to train AI is automatically lawful (Brittain 2025).
+A Reuters article from this year discusses a recent ruling in a US copyright case between Meta and a group of authors. In his ruling, a judge found in Meta’s favour as the authors did not provide sufficient evidence to demonstrate market harm as required but simultaneously emphasized that “this decision does not imply that utilizing copyrighted works for training artificial intelligence systems is automatically lawful” (Brittain 2025).
 
 ### Justification on why I chose the artefact
 
-I selected this article because it shows how difficult copyright questions can become when AI systems are trained using existing creative works. What stood out to me was that the decision did not simply mean that AI companies can freely use copyrighted material. The circumstances and evidence were important. This challenged my initial assumption that copyright rules have a simple answer when technology is involved. It connects to the unit because ICT professionals need to think about the rights of creators as well as the benefits of technological innovation. I also think this is relevant to my future career because software and AI projects can involve large amounts of information created by other people. I learned that responsible ICT practice requires checking legal and ethical responsibilities before using such material.
+One reason for selecting this article was to see how challenging issues related to copyright could be if artificial intelligence (AI) systems were being trained up on existing pieces of creative work.
+What really struck me was the fact that while there had been some indication that the decision would allow AI companies to utilise copyrighted material without restriction, the specific circumstances and evidence surrounding this case proved key.
+This contradicted my initial assumption that these kinds of cases would have relatively straightforward solutions relating to copyright laws and their intersection with technologies – an issue we explored within our unit. 
+In addition to that, given its relevance to my potential future career, having an awareness of these kinds of considerations around intellectual property and the importance placed upon the rights of those who create content is essential – especially since many software/AI projects will require access to huge volumes of information created by others. Thus, ensuring that all appropriate legal/ethical considerations have been considered prior to utilising such material is vital to practising responsibly as an ICT professional.
 
 ## Artefact 3: Scholarly Article – Generative AI and Australian Copyright
 ![Artefact 3](5253776482813812312_121.jpg)
