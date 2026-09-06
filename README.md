@@ -9,8 +9,7 @@ A collection of artefacts that demonstrate what I have learnt about Intellectual
 https://www.wipo.int/en/web/patent-analytics/generative-ai/2025
 
 ### Summary of the artefact
-
-The World Intellectual Property Organization (WIPO) reports that generative AI inventions increased from 18,862 in 2024 to 37,808 in 2025. The report also shows that large language models became the largest generative AI model category by patent volume, while China remained the leading origin of GenAI patent families (WIPO 2026).
+According to the World Intellectual Property Organization (WIPO), the number of generative AI inventions rose from 18,862 in 2024 to 37,808 in 2025 (WIPO 2026). Additionally, large language models emerged as the top category for generative AI models when measured based on patent volumes. Finally, China retained its position as the top origin of GenAI patent families.
 
 ### Justification on why I chose the artefact
 
