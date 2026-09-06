@@ -18,7 +18,7 @@ I chose this artefact because it helped me understand that intellectual property
 
 ## Artefact 2: Reuters – Meta Copyright Case and AI Training
 ![Artefact 2](5253776482813812311_121.jpg)
-**Artefact:**  
+
 https://www.reuters.com/sustainability/boards-policy-regulation/meta-fends-off-authors-us-copyright-lawsuit-over-ai-2025-06-25/
 
 ### Summary of the artefact
