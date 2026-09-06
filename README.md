@@ -17,7 +17,7 @@ The World Intellectual Property Organization (WIPO) reports that generative AI i
 I chose this artefact because it helped me understand that intellectual property is not only about copyright. Patents are also important in ICT because they can protect new technological inventions. The rapid growth in GenAI patents shows how quickly technology companies and researchers are trying to protect new ideas. This connects with our workshop because we discussed how ICT professionals create and use digital technologies that can have value for organisations and society. Before looking at this report, I mostly connected AI with software and data rather than patents. I now understand that innovation can create intellectual property that needs to be identified and protected. This is important for me as an ICT student because future technical work may involve creating technologies that have commercial and legal value.
 
 ## Artefact 2: Reuters – Meta Copyright Case and AI Training
-
+![Artefact 2](5253776482812311_121.jpg)
 **Artefact:**  
 https://www.reuters.com/sustainability/boards-policy-regulation/meta-fends-off-authors-us-copyright-lawsuit-over-ai-2025-06-25/
 
