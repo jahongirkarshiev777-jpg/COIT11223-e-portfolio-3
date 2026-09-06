@@ -5,6 +5,7 @@ A collection of artefacts that demonstrate what I have learnt about Intellectual
 
 ## Artefact 1: WIPO – Generative AI Patent Trends in 2025
 ![Artefact 1](5253776482813812169_121.jpg)
+
 https://www.wipo.int/en/web/patent-analytics/generative-ai/2025
 
 ### Summary of the artefact
