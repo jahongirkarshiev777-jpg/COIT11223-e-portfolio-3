@@ -63,7 +63,6 @@ It has been a positive learning experience for me, helping me to understand how 
 Now, when I am thinking about being an ICT professional, it’s no longer just about getting the technology working – I have to start to think about whether what information/code etc I’m using is actually owned by someone else, and do I have permission? It should help me make sure I check up on licenses and such things more carefully.
 
 ## References
-## References
 
 Brittain, B 2025, ‘Meta fends off authors’ US copyright lawsuit over AI’, Reuters, 26 June, viewed 6 September 2026, https://www.reuters.com/sustainability/boards-policy-regulation/meta-fends-off-authors-us-copyright-lawsuit-over-ai-2025-06-25/
 Foong, C 2025, Generative artificial intelligence models and copyright infringement: Doctrinal challenges and regulatory gap-filling using unfair competition principles, UNSW Law Journal, vol. 48, no. 4, p. 1361-1390, viewed 6 September 2026, https://classic.austlii.edu.au/au/journals/UNSWLawJl/2025/45.html
@@ -73,9 +72,3 @@ World Intellectual Property Organization 2026, Top Generative AI Patent Trends i
 The AI tools were used during the planning/research phase to try and find artefacts of current practice which would be helpful as well as organisational support for thoughts.
 I have checked back with the original source documents where relevant and made refinements in my own words.
 I have been able to use the unit’s guidance on reflective writing (focussed more on analysis/evaluation) this time.
-
-
-
-
-
- o focus on analysis and evaluation rather than only description.
