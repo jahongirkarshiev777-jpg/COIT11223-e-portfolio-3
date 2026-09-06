@@ -31,7 +31,7 @@ I selected this article because it shows how difficult copyright questions can b
 
 ## Artefact 3: Scholarly Article – Generative AI and Australian Copyright
 ![Artefact 3](5253776482813812312_121.jpg)
-**Artefact:**  
+
 https://classic.austlii.edu.au/au/journals/UNSWLawJl/2025/45.html
 
 ### Summary of the artefact
