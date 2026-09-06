@@ -49,8 +49,8 @@ It did help me develop an increased awareness around potential copyright conside
 **Workshop evidence:**  
 **Week:** 7  
 **Date:** 6 September 2026  
-**Tutor:** [INSERT YOUR REAL TUTOR NAME]  
-**Campus/Online:** [INSERT YOUR REAL CAMPUS OR ONLINE]
+**Tutor:** [Khaleel Petrus]  
+**Campus/Online:** [Rokhompton campus, Brisbane]
 
 ### Summary of the artefact: My Personal Reflection
 Week 7’s focus was on Intellectual Property and recognising the importance of ownership forICT Professionals.
