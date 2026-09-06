@@ -30,7 +30,7 @@ This 2025 Reuters article reports on a US copyright case involving Meta and a gr
 I selected this article because it shows how difficult copyright questions can become when AI systems are trained using existing creative works. What stood out to me was that the decision did not simply mean that AI companies can freely use copyrighted material. The circumstances and evidence were important. This challenged my initial assumption that copyright rules have a simple answer when technology is involved. It connects to the unit because ICT professionals need to think about the rights of creators as well as the benefits of technological innovation. I also think this is relevant to my future career because software and AI projects can involve large amounts of information created by other people. I learned that responsible ICT practice requires checking legal and ethical responsibilities before using such material.
 
 ## Artefact 3: Scholarly Article – Generative AI and Australian Copyright
-
+![Artefact 3](5253776482813812312_121.jpg)
 **Artefact:**  
 https://classic.austlii.edu.au/au/journals/UNSWLawJl/2025/45.html
 
